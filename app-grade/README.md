@@ -1,12 +1,5 @@
-Courses App - Solution Code
-================================
+### Aplicativo App Grade
 
-Solution code for the Android Basics with Compose: Build a grid list practice problem set.
+## Tela
 
-
-Introduction
-------------
-The Courses app consists of a scrollable grid of course topics.
-
-
-All photos by Romain Guy. All photos are licensed under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
+![App Grade](https://github.com/Wallex-Andre/Progamacao-de-Aplicativos-Mobile-I/blob/master/app-grade/app-grade.png)
